@@ -627,40 +627,52 @@ Admin dapat mengelola data seluruh tenant yang aktif beroperasi di \textit{food 
     \label{fig:ss_odoo_tenant}
 \end{figure}
 
-\textbf{Analitik Okupansi Meja:}
-Admin dapat memantau tingkat kepadatan atau okupansi meja berdasarkan jam dan hari dalam seminggu melalui grafik batang bertumpuk (\textit{stacked bar chart}). Hal ini membantu manajemen dalam menganalisis waktu sibuk (\textit{peak hours}) di \textit{food court}.
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=1.0\linewidth]{res/analytics_table occupancy.png}
-\caption{Tampilan Analitik Okupansi Meja di Backend Odoo}
-\label{fig:analytics_occupancy}
-\end{figure}
+\paragraph{Dasbor Laporan dan Analitik} \mbox{}\\ % \mbox{}\\ digunakan agar teks selanjutnya turun ke baris baru
+Odoo menyediakan modul analitik komprehensif yang memungkinkan manajemen untuk mengevaluasi performa operasional \textit{food court} secara *real-time*.
 
 \textbf{Analitik Pendapatan Tenant:}
-Tampilan ini menyajikan grafik batang yang membandingkan total pendapatan (termasuk pajak) dari masing-masing tenant yang beroperasi. Data ini memudahkan admin untuk mengevaluasi tenant dengan performa penjualan tertinggi.
+Tampilan ini menyajikan grafik batang yang membandingkan total pendapatan (termasuk pajak) dari masing-masing tenant yang beroperasi. Data ini memudahkan admin untuk melihat secara langsung tenant mana yang menghasilkan pendapatan tertinggi pada sistem.
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=1.0\linewidth]{res/analytics_tenant revenue.png}
 \caption{Tampilan Analitik Pendapatan Tenant di Backend Odoo}
-\label{fig:analytics_revenue}
+\label{fig:analytics_revenue_2}
 \end{figure}
 
 \textbf{Kontribusi Penjualan Tenant:}
-Grafik ini menunjukkan seberapa besar kontribusi jumlah pesanan (\textit{paid/done orders}) dari setiap tenant terhadap total keseluruhan transaksi di \textit{food court}. Admin dapat menggunakan laporan ini sebagai landasan untuk perhitungan bagi hasil atau evaluasi kontrak.
+Grafik lingkaran (\textit{pie chart}) ini memvisualisasikan persentase kontribusi jumlah pesanan dari setiap tenant terhadap keseluruhan transaksi. Tampilan interaktif ini memudahkan admin untuk mengevaluasi pangsa pasar dan performa persentase masing-masing tenant di \textit{food court}.
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=1.0\linewidth]{res/analytics_tenant sales contribution.png}
-\caption{Tampilan Kontribusi Penjualan Tenant di Backend Odoo}
-\label{fig:analytics_contribution}
+\caption{Tampilan Pie Chart Kontribusi Penjualan Tenant di Backend Odoo}
+\label{fig:analytics_contribution_pie}
 \end{figure}
 
-\textbf{Tren Reservasi:}
-Admin dapat memantau tren jumlah reservasi aktif dari hari ke hari melalui grafik area (\textit{area chart}). Tampilan ini sangat berguna untuk melihat pola dan fluktuasi minat pengunjung \textit{food court} selama periode waktu tertentu.
+\textbf{Analitik Jumlah Tamu (Number of Guests):}
+Laporan ini menggunakan grafik batang untuk menampilkan fluktuasi total jumlah tamu yang hadir berdasarkan data reservasi harian. Informasi ini sangat berguna bagi manajemen untuk memperkirakan volume pengunjung dan menyesuaikan kebutuhan staf pelayanan di lapangan.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.0\linewidth]{res/analytics_number of guests.png}
+\caption{Tampilan Analitik Jumlah Tamu Harian di Backend Odoo}
+\label{fig:analytics_guests}
+\end{figure}
+
+\textbf{Tren Reservasi Harian:}
+Admin dapat memantau tren jumlah reservasi aktif dari hari ke hari melalui grafik area (\textit{area chart}). Tampilan ini membantu manajemen dalam mengenali pola kunjungan, melihat puncak keramaian pada tanggal tertentu, dan mengevaluasi efektivitas layanan.
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=1.0\linewidth]{res/analytics_reservation trends.png}
 \caption{Tampilan Tren Reservasi Harian di Backend Odoo}
-\label{fig:analytics_trends}
+\label{fig:analytics_trends_2}
+\end{figure}
+
+\textbf{Analitik Okupansi Meja:}
+Tampilan ini menggunakan grafik batang bertumpuk (\textit{stacked bar chart}) yang dipadukan dengan grafik garis untuk menganalisis tingkat okupansi meja berdasarkan jam operasional dan hari dalam seminggu. Hal ini memudahkan penentuan waktu sibuk (\textit{peak hours}) secara komprehensif.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.0\linewidth]{res/analytics_table occupancy.png}
+\caption{Tampilan Analitik Okupansi Meja di Backend Odoo}
+\label{fig:analytics_occupancy_2}
 \end{figure}
 
 \section{PENGUJIAN SISTEM}
@@ -755,7 +767,7 @@ Beberapa saran untuk pengembangan sistem di masa mendatang adalah sebagai beriku
     \item \textbf{Dasbor Analitik Lanjutan.} Membangun halaman \textit{dashboard} analitik khusus di sisi \textit{Web Frontend} yang menampilkan visualisasi data (grafik tren penjualan, \textit{heatmap} jam sibuk, dan peringkat menu terlaris) agar dapat diakses oleh manajemen tanpa perlu masuk ke antarmuka Odoo.
     
     \item \textbf{Sistem Ulasan dan Rating.} Menambahkan fitur umpan balik pelanggan setelah reservasi selesai, sehingga manajemen dapat memantau kualitas pelayanan setiap tenant secara berkelanjutan.
-    
+        
     \item \textbf{Optimasi Performa.} Menerapkan mekanisme \textit{caching} pada sisi API (misalnya Redis) untuk mengurangi frekuensi pemanggilan XML-RPC ke Odoo pada data yang jarang berubah seperti daftar menu dan denah lantai, guna meningkatkan kecepatan respons sistem saat beban tinggi.
 \end{enumerate}
 
