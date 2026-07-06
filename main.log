@@ -1,0 +1,978 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.7.7)  7 JUL 2026 00:47
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/luffy/Downloads/_FORKED__Foodcourt_Enterprise_System_Report/main.tex
+(c:/Users/luffy/Downloads/_FORKED__Foodcourt_Enterprise_System_Report/main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen148
+\@IEEEtrantmpdimenB=\dimen149
+\@IEEEtrantmpdimenC=\dimen150
+\@IEEEtrantmpcountA=\count275
+\@IEEEtrantmpcountB=\count276
+\@IEEEtrantmpcountC=\count277
+\@IEEEtrantmptoksA=\toks17
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen151
+-- This is a 10 point document.
+LaTeX Encoding Info:    Redeclaring text command \textunderscore (encoding ?) on input line 937.
+\CLASSINFOnormalsizebaselineskip=\dimen152
+\CLASSINFOnormalsizeunitybaselineskip=\dimen153
+\IEEEnormaljot=\dimen154
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen155
+\IEEEquantizedlengthdiff=\dimen156
+\IEEEquantizedtextheightdiff=\dimen157
+\IEEEilabelindentA=\dimen158
+\IEEEilabelindentB=\dimen159
+\IEEEilabelindent=\dimen160
+\IEEEelabelindent=\dimen161
+\IEEEdlabelindent=\dimen162
+\IEEElabelindent=\dimen163
+\IEEEiednormlabelsep=\dimen164
+\IEEEiedmathlabelsep=\dimen165
+\IEEEiedtopsep=\skip49
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@IEEEsubequation=\count282
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\c@figure=\count283
+\c@table=\count284
+\@IEEEeqnnumcols=\count285
+\@IEEEeqncolcnt=\count286
+\@IEEEsubeqnnumrollback=\count287
+\@IEEEquantizeheightA=\dimen166
+\@IEEEquantizeheightB=\dimen167
+\@IEEEquantizeheightC=\dimen168
+\@IEEEquantizeprevdepth=\dimen169
+\@IEEEquantizemultiple=\count288
+\@IEEEquantizeboxA=\box53
+\@IEEEtmpitemindent=\dimen170
+\IEEEPARstartletwidth=\dimen171
+\c@IEEEbiography=\count289
+\@IEEEtranrubishbin=\box54
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen172
+)) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen173
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count290
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count291
+\leftroot@=\count292
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count293
+\DOTSCASE@=\count294
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen174
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count295
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count296
+\dotsspace@=\muskip17
+\c@parentequation=\count297
+\dspbrk@lvl=\count298
+\tag@help=\toks19
+\row@=\count299
+\column@=\count300
+\maxfields@=\count301
+\andhelp@=\toks20
+\eqnshift@=\dimen175
+\alignsep@=\dimen176
+\tagshift@=\dimen177
+\tagwidth@=\dimen178
+\totwidth@=\dimen179
+\lineht@=\dimen180
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\c@ALC@unique=\count302
+\c@ALC@line=\count303
+\c@ALC@rem=\count304
+\c@ALC@depth=\count305
+\ALC@tlm=\skip55
+\algorithmicindent=\skip56
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen181
+\Gin@req@width=\dimen182
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen183
+\ar@mcellbox=\box57
+\extrarowheight=\dimen184
+\NC@list=\toks24
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box58
+)
+\TX@col@width=\dimen185
+\TX@old@table=\dimen186
+\TX@old@col=\dimen187
+\TX@target=\dimen188
+\TX@delta=\dimen189
+\TX@cols=\count306
+\TX@ftn=\toks25
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count307
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count308
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen190
+\Hy@linkcounter=\count309
+\Hy@pagecounter=\count310
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count311
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count312
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen191
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count313
+\Field@Width=\dimen192
+\Fld@charsize=\dimen193
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count314
+\c@Item=\count315
+\c@Hfootnote=\count316
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count317
+\c@bookmark@seq@number=\count318
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip59
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count319
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+-- Lines per column: 56 (exact).
+(C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count320
+\scratchdimen=\dimen194
+\scratchbox=\box59
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen195
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks27
+) (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 31.
+ (main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 68.
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
+ (C:\Users\luffy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/luffy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+]
+Underfull \hbox (badness 7832) in paragraph at lines 122--123
+[]\OT1/ptm/m/it/10 Enterprise Re-source Plan-ning \OT1/ptm/m/n/10 (ERP) adalah sis-tem
+ []
+
+[2]
+Underfull \hbox (badness 5359) in paragraph at lines 143--144
+[]\OT1/ptm/m/it/10 Application Pro-gram-ming In-ter-face \OT1/ptm/m/n/10 (API) meru-pakan
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 163--164
+ \OT1/ptm/m/it/10 3) Tahap Peme-sanan Menu: [][][] \OT1/ptm/m/n/10 Sete-lah \OT1/ptm/m/it/10 check-in \OT1/ptm/m/n/10 se-le-sai,
+ []
+
+<res/bpmn.png, id=267, 7839.2875pt x 3969.83125pt>
+File: res/bpmn.png Graphic file (type png)
+<use res/bpmn.png>
+Package pdftex.def Info: res/bpmn.png  used on input line 178.
+(pdftex.def)             Requested size: 516.0pt x 261.25854pt.
+[3]
+<res/UCD Website.jpeg, id=274, 962.59625pt x 576.1525pt>
+File: res/UCD Website.jpeg Graphic file (type jpg)
+<use res/UCD Website.jpeg>
+Package pdftex.def Info: res/UCD Website.jpeg  used on input line 188.
+(pdftex.def)             Requested size: 252.0pt x 150.82469pt.
+
+Underfull \hbox (badness 1354) in paragraph at lines 193--194
+\OT1/ptm/m/n/10 ter-batas un-tuk meli-hat daf-tar \OT1/ptm/m/it/10 ten-ant\OT1/ptm/m/n/10 , meli-hat menu \OT1/ptm/m/it/10 ten-
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 193--194
+\OT1/ptm/m/n/10 melakukan reser-vasi meja, meme-san makanan, memilih
+ []
+
+<res/UCD Odoo.jpeg, id=276, 1033.8625pt x 1071.00125pt>
+File: res/UCD Odoo.jpeg Graphic file (type jpg)
+<use res/UCD Odoo.jpeg>
+Package pdftex.def Info: res/UCD Odoo.jpeg  used on input line 197.
+(pdftex.def)             Requested size: 252.0pt x 261.04938pt.
+[4 <./res/bpmn.png> <./res/UCD Website.jpeg> <./res/UCD Odoo.jpeg>]
+<res/sequence_registrasi dan login.jpeg, id=285, 722.7pt x 680.5425pt>
+File: res/sequence_registrasi dan login.jpeg Graphic file (type jpg)
+<use res/sequence_registrasi dan login.jpeg>
+Package pdftex.def Info: res/sequence_registrasi dan login.jpeg  used on input line 219.
+(pdftex.def)             Requested size: 252.0pt x 237.3004pt.
+<res/sequence_browse tenant dan lihat menu.jpeg, id=286, 851.18pt x 696.6025pt>
+File: res/sequence_browse tenant dan lihat menu.jpeg Graphic file (type jpg)
+<use res/sequence_browse tenant dan lihat menu.jpeg>
+Package pdftex.def Info: res/sequence_browse tenant dan lihat menu.jpeg  used on input line 228.
+(pdftex.def)             Requested size: 252.0pt x 206.22937pt.
+
+Underfull \hbox (badness 2435) in paragraph at lines 224--232
+\OT1/ptm/m/n/10 nun-jukkan proses pe-narikan data oleh pelang-gan un-tuk
+ []
+
+<res/sequence_reservasi meja foodcourt.jpeg, id=287, 856.19875pt x 741.77126pt>
+File: res/sequence_reservasi meja foodcourt.jpeg Graphic file (type jpg)
+<use res/sequence_reservasi meja foodcourt.jpeg>
+Package pdftex.def Info: res/sequence_reservasi meja foodcourt.jpeg  used on input line 237.
+(pdftex.def)             Requested size: 252.0pt x 218.32262pt.
+<res/sequence_pemesanan makanan.jpeg, id=288, 752.8125pt x 904.37875pt>
+File: res/sequence_pemesanan makanan.jpeg Graphic file (type jpg)
+<use res/sequence_pemesanan makanan.jpeg>
+Package pdftex.def Info: res/sequence_pemesanan makanan.jpeg  used on input line 246.
+(pdftex.def)             Requested size: 252.0pt x 302.73761pt.
+<res/sequence_cek status reservasi.jpeg, id=289, 767.86874pt x 741.77126pt>
+File: res/sequence_cek status reservasi.jpeg Graphic file (type jpg)
+<use res/sequence_cek status reservasi.jpeg>
+Package pdftex.def Info: res/sequence_cek status reservasi.jpeg  used on input line 255.
+(pdftex.def)             Requested size: 252.0pt x 243.42705pt.
+<res/sequence_pembatalan reservasi.jpeg, id=290, 785.93625pt x 820.06375pt>
+File: res/sequence_pembatalan reservasi.jpeg Graphic file (type jpg)
+<use res/sequence_pembatalan reservasi.jpeg>
+Package pdftex.def Info: res/sequence_pembatalan reservasi.jpeg  used on input line 264.
+(pdftex.def)             Requested size: 252.0pt x 262.9388pt.
+[5 <./res/sequence_registrasi dan login.jpeg> <./res/sequence_browse tenant dan lihat menu.jpeg>] [6 <./res/sequence_reservasi meja foodcourt.jpeg> <./res/sequence_pemesanan makanan.jpeg> <./res/sequence_cek status reservasi.jpeg> <./res/sequence_pembatalan reservasi.jpeg>]
+Underfull \hbox (badness 1715) in paragraph at lines 275--276
+[]\OT1/ptm/b/n/10 Registrasi dan Au-t-en-tikasi: \OT1/ptm/m/n/10 Sis-tem memu-ngkinkan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+[]\OT1/ptm/b/n/10 Pencarian Meja Kosong: \OT1/ptm/m/n/10 Sis-tem harus bisa
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 276--277
+\OT1/ptm/m/n/10 menampilkan daf-tar meja yang terse-dia berdasarkan
+ []
+
+<res/architecture.png, id=305, 775.89874pt x 538.01pt>
+File: res/architecture.png Graphic file (type png)
+<use res/architecture.png>
+Package pdftex.def Info: res/architecture.png  used on input line 300.
+(pdftex.def)             Requested size: 252.0pt x 174.73624pt.
+
+Underfull \hbox (badness 2573) in paragraph at lines 313--314
+\OT1/ptm/m/n/10 bangkan pula modul kus-tom (\OT1/ptm/m/it/10 cus-tom ad-dons\OT1/ptm/m/n/10 ) bernama
+ []
+
+[7 <./res/architecture.png>]
+<res/erd.png, id=314, 15170.6775pt x 6871.6725pt>
+File: res/erd.png Graphic file (type png)
+<use res/erd.png>
+Package pdftex.def Info: res/erd.png  used on input line 320.
+(pdftex.def)             Requested size: 252.0pt x 114.08022pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\OT1/ptm/m/n/10 pelang-gan dan data pemi-lik ten-ant di-hubungkan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+\OT1/ptm/m/n/10 se-cara ter-pusat ke tabel ini. Tabel reser-vasi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+[]\OT1/ptm/b/n/10 Relasi ke Modul POS Restau-rant
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 328--329
+\OT1/ptm/b/n/10 (\OT1/pcr/b/n/10 restaurant.table \OT1/ptm/b/n/10 & \OT1/pcr/b/n/10 restaurant.floor\OT1/ptm/b/n/10 ):
+ []
+
+<res/ui_homepage_placeholder.png, id=315, 1346.02875pt x 1606.0pt>
+File: res/ui_homepage_placeholder.png Graphic file (type png)
+<use res/ui_homepage_placeholder.png>
+Package pdftex.def Info: res/ui_homepage_placeholder.png  used on input line 353.
+(pdftex.def)             Requested size: 252.0pt x 300.65866pt.
+<res/ui_booking_step1_placeholder.png, id=316, 1606.0pt x 995.72pt>
+File: res/ui_booking_step1_placeholder.png Graphic file (type png)
+<use res/ui_booking_step1_placeholder.png>
+Package pdftex.def Info: res/ui_booking_step1_placeholder.png  used on input line 365.
+(pdftex.def)             Requested size: 252.0pt x 156.23418pt.
+<res/ui_booking_step2_placeholder.png, id=317, 1606.0pt x 1466.47874pt>
+File: res/ui_booking_step2_placeholder.png Graphic file (type png)
+<use res/ui_booking_step2_placeholder.png>
+Package pdftex.def Info: res/ui_booking_step2_placeholder.png  used on input line 374.
+(pdftex.def)             Requested size: 252.0pt x 230.09894pt.
+<res/ui_booking_step3_placeholder.png, id=318, 1500.60625pt x 1606.0pt>
+File: res/ui_booking_step3_placeholder.png Graphic file (type png)
+<use res/ui_booking_step3_placeholder.png>
+Package pdftex.def Info: res/ui_booking_step3_placeholder.png  used on input line 383.
+(pdftex.def)             Requested size: 252.0pt x 269.68364pt.
+<res/ui_booking_step4_placeholder.png, id=319, 1606.0pt x 1465.475pt>
+File: res/ui_booking_step4_placeholder.png Graphic file (type png)
+<use res/ui_booking_step4_placeholder.png>
+Package pdftex.def Info: res/ui_booking_step4_placeholder.png  used on input line 392.
+(pdftex.def)             Requested size: 252.0pt x 229.94144pt.
+<res/ui_history_placeholder.png, id=320, 1606.0pt x 1284.8pt>
+File: res/ui_history_placeholder.png Graphic file (type png)
+<use res/ui_history_placeholder.png>
+Package pdftex.def Info: res/ui_history_placeholder.png  used on input line 401.
+(pdftex.def)             Requested size: 252.0pt x 201.5925pt.
+[8 <./res/erd.png>]
+Underfull \hbox (badness 2221) in paragraph at lines 407--409
+ \OT1/ptm/m/it/10 4) Vi-su-al-isasi Data Anal-i-tik (Odoo Back-end): [][][] \OT1/ptm/m/n/10 Sis-tem
+ []
+
+[9 <./res/ui_homepage_placeholder.png> <./res/ui_booking_step1_placeholder.png> <./res/ui_booking_step2_placeholder.png> <./res/ui_booking_step3_placeholder.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
+[]\OT1/ptm/b/n/10 Kontribusi Pen-jualan Ten-ant (\OT1/ptm/b/it/10 Pie Chart\OT1/ptm/b/n/10 ):
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 410--411
+\OT1/ptm/m/n/10 Menampilkan per-bandin-gan pro-porsi pe-sanan ma-suk
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 410--411
+\OT1/ptm/m/n/10 un-tuk masing-masing ten-ant, mem-bantu man-a-je-men
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 412--413
+[]\OT1/ptm/b/n/10 Ringkasan Pen-da-p-atan (\OT1/ptm/b/it/10 Score-card\OT1/ptm/b/n/10 ): \OT1/ptm/m/n/10 Berupa angka
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 417--418
+[]\OT1/ptm/m/n/10 Implementasi sis-tem ini me-man-faatkan dua tumpukan
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 421--422
+\OT1/ptm/m/n/10 Versi 19 di-gu-nakan karena men-dukung pen-dekatan
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 421--422
+\OT1/pcr/m/n/10 model.Constraint \OT1/ptm/m/n/10 berba-sis ke-las dan metode
+ []
+
+LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <10> not available
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 443.
+
+Underfull \hbox (badness 2426) in paragraph at lines 445--447
+[]\OT1/ptm/m/n/10 Fitur anal-i-tik un-tuk ten-ant di-im-ple-men-tasikan melalui
+ []
+
+[10 <./res/ui_booking_step4_placeholder.png> <./res/ui_history_placeholder.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+[]\OT1/pcr/m/n/10 _compute_total_revenue\OT1/ptm/m/n/10 : Men-jum-lahkan
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 462--463
+[]\OT1/ptm/b/n/10 Pencegahan Peme-sanan Ganda (\OT1/ptm/b/it/10 Double-Booking
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+\OT1/ptm/b/it/10 Pre-ven-tion\OT1/ptm/b/n/10 ): \OT1/ptm/m/n/10 Di-im-ple-men-tasikan melalui metode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+\OT1/pcr/m/n/10 _check_table_availability()\OT1/ptm/m/n/10 . Sis-tem
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 462--463
+\OT1/ptm/m/n/10 melakukan kueri pen-car-ian reser-vasi yang tumpang-
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 463--464
+[]\OT1/ptm/b/n/10 Pembuatan Pe-sanan POS Otoma-tis: \OT1/ptm/m/n/10 Saat ad-min
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+\OT1/ptm/m/n/10 melakukan \OT1/ptm/m/it/10 check-in \OT1/ptm/m/n/10 tamu (\OT1/pcr/m/n/10 action_check_in\OT1/ptm/m/n/10 ),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+\OT1/ptm/m/n/10 sis-tem se-cara otoma-tis me-mang-gil metode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+\OT1/pcr/m/n/10 _create_pos_order_from_reservation()\OT1/ptm/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 463--464
+\OT1/ptm/m/n/10 Metode ini men-cari sesi POS yang sedang ak-tif,
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 464--465
+[]\OT1/ptm/b/n/10 Bidang Kalen-der: \OT1/ptm/m/n/10 Dua bidang \OT1/pcr/m/n/10 date_start \OT1/ptm/m/n/10 dan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+[]\OT1/pcr/b/n/10 _cron_cancel_pending_payments\OT1/ptm/b/n/10 :
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 471--472
+\OT1/pcr/m/n/10 pending_payment \OT1/ptm/m/n/10 apa-bila telah mele-wati batas
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 472--473
+[]\OT1/pcr/b/n/10 _cron_cancel_expired_reservations\OT1/ptm/b/n/10 : \OT1/ptm/m/n/10 Men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\OT1/ptm/m/n/8 Mengambil daf-tar meja
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\OT1/ptm/m/n/8 yang terse-dia dari Odoo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\OT1/ptm/m/n/8 berdasarkan pa-ram-e-ter
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 505--505
+[]|\OT1/ptm/m/n/8 Mengambil meta-data de-nah
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\OT1/ptm/m/n/8 Mengambil selu-ruh daf-tar
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 505--505
+\OT1/ptm/m/n/8 di POS be-serta in-for-masi
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 505--505
+[]|\OT1/ptm/m/n/8 Membuat reser-vasi baru di
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 505--505
+\OT1/ptm/m/n/8 Odoo. Jika ada \OT1/ptm/m/it/8 pre-order\OT1/ptm/m/n/8 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\OT1/ptm/m/n/8 sis-tem mem-buat transaksi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\OT1/ptm/m/n/8 dim-i-liki peng-guna yang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\OT1/ptm/m/n/8 Memvalidasi \OT1/ptm/m/it/8 cookie \OT1/ptm/m/n/8 sesi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\OT1/ptm/m/n/8 peng-guna yang ak-tif dan
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 505--505
+[]|\OT1/ptm/m/n/8 Mendaftarkan akun pelang-
+ []
+
+[11]
+Underfull \hbox (badness 1360) in paragraph at lines 516--517
+[][][] \OT1/ptm/m/n/10 Pada Tahap 2, keterse-di-aan meja di-vi-su-al-isas-ikan meng-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 516--517
+\OT1/ptm/m/n/10 di-mensi meja berdasarkan data spasial (\OT1/pcr/m/n/10 position_h\OT1/ptm/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+ \OT1/ptm/m/it/10 4) Im-ple-men-tasi Anal-i-tik di Odoo: [][][] \OT1/ptm/m/n/10 Fi-tur anal-i-tik
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+\OT1/ptm/m/n/10 di-im-ple-men-tasikan se-cara lang-sung di dalam model
+ []
+
+
+Underfull \hbox (badness 7925) in paragraph at lines 522--523
+\OT1/pcr/m/n/10 foodcourt.tenant \OT1/ptm/m/n/10 se-ba-gai \OT1/ptm/m/it/10 field \OT1/ptm/m/n/10 yang dikom-putasi
+ []
+
+
+Underfull \hbox (badness 4279) in paragraph at lines 522--523
+\OT1/ptm/m/n/10 yang didefin-isikan dalam \OT1/ptm/m/it/10 view \OT1/ptm/m/n/10 XML modul, se-hingga
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+\OT1/ptm/m/n/10 memu-ngkinkan ad-min un-tuk meli-hat grafik per-forma
+ []
+
+<res/ss_web_homepage.png, id=374, 1927.2pt x 1904.11375pt>
+File: res/ss_web_homepage.png Graphic file (type png)
+<use res/ss_web_homepage.png>
+Package pdftex.def Info: res/ss_web_homepage.png  used on input line 533.
+(pdftex.def)             Requested size: 252.0pt x 248.96715pt.
+<res/ss_web_step1.png, id=375, 1927.2pt x 1187.43625pt>
+File: res/ss_web_step1.png Graphic file (type png)
+<use res/ss_web_step1.png>
+Package pdftex.def Info: res/ss_web_step1.png  used on input line 542.
+(pdftex.def)             Requested size: 252.0pt x 155.25995pt.
+<res/ss_web_step2.png, id=376, 1927.2pt x 1632.0975pt>
+File: res/ss_web_step2.png Graphic file (type png)
+<use res/ss_web_step2.png>
+Package pdftex.def Info: res/ss_web_step2.png  used on input line 551.
+(pdftex.def)             Requested size: 252.0pt x 213.4004pt.
+<res/ss_web_step3.png, id=377, 1927.2pt x 2898.83pt>
+File: res/ss_web_step3.png Graphic file (type png)
+<use res/ss_web_step3.png>
+Package pdftex.def Info: res/ss_web_step3.png  used on input line 560.
+(pdftex.def)             Requested size: 252.0pt x 379.02853pt.
+
+Underfull \hbox (badness 4279) in paragraph at lines 556--564
+[]\OT1/ptm/b/n/10 Tahap 3 - Pemil-i-han Menu (\OT1/ptm/b/it/10 Pre-order\OT1/ptm/b/n/10 ): \OT1/ptm/m/n/10 Pelang-
+ []
+
+<res/ss_web_step4.png, id=378, 1927.2pt x 1578.89874pt>
+File: res/ss_web_step4.png Graphic file (type png)
+<use res/ss_web_step4.png>
+Package pdftex.def Info: res/ss_web_step4.png  used on input line 569.
+(pdftex.def)             Requested size: 252.0pt x 206.44455pt.
+<res/ss_web_step5.png, id=379, 2010.51125pt x 1260.71pt>
+File: res/ss_web_step5.png Graphic file (type png)
+<use res/ss_web_step5.png>
+Package pdftex.def Info: res/ss_web_step5.png  used on input line 578.
+(pdftex.def)             Requested size: 252.0pt x 158.01157pt.
+<res/ss_web_step6.png, id=380, 1927.2pt x 915.42pt>
+File: res/ss_web_step6.png Graphic file (type png)
+<use res/ss_web_step6.png>
+Package pdftex.def Info: res/ss_web_step6.png  used on input line 587.
+(pdftex.def)             Requested size: 252.0pt x 119.6932pt.
+<res/ss_web_history.png, id=381, 1927.2pt x 915.42pt>
+File: res/ss_web_history.png Graphic file (type png)
+<use res/ss_web_history.png>
+Package pdftex.def Info: res/ss_web_history.png  used on input line 596.
+(pdftex.def)             Requested size: 252.0pt x 119.6932pt.
+
+Underfull \hbox (badness 1902) in paragraph at lines 592--600
+[]\OT1/ptm/b/n/10 Halaman Ri-wayat Reser-vasi (Dash-board): \OT1/ptm/m/n/10 Ha-la-man
+ []
+
+[12 <./res/ss_web_homepage.png> <./res/ss_web_step1.png>] [13 <./res/ss_web_step2.png> <./res/ss_web_step3.png> <./res/ss_web_step4.png> <./res/ss_web_step5.png> <./res/ss_web_step6.png>]
+<res/ss_odoo_reservation_list.png, id=405, 1927.2pt x 915.42pt>
+File: res/ss_odoo_reservation_list.png Graphic file (type png)
+<use res/ss_odoo_reservation_list.png>
+Package pdftex.def Info: res/ss_odoo_reservation_list.png  used on input line 607.
+(pdftex.def)             Requested size: 252.0pt x 119.6932pt.
+
+Underfull \hbox (badness 2277) in paragraph at lines 603--611
+ \OT1/ptm/m/it/10 2) Tampi-lan Back-end Odoo: [][][] \OT1/ptm/b/n/10 Daf-tar Reser-vasi (List
+ []
+
+<res/ss_odoo_reservation_form.png, id=406, 1927.2pt x 1418.29875pt>
+File: res/ss_odoo_reservation_form.png Graphic file (type png)
+<use res/ss_odoo_reservation_form.png>
+Package pdftex.def Info: res/ss_odoo_reservation_form.png  used on input line 616.
+(pdftex.def)             Requested size: 252.0pt x 185.44574pt.
+<res/ss_odoo_tenant.png, id=407, 1927.2pt x 1148.29pt>
+File: res/ss_odoo_tenant.png Graphic file (type png)
+<use res/ss_odoo_tenant.png>
+Package pdftex.def Info: res/ss_odoo_tenant.png  used on input line 625.
+(pdftex.def)             Requested size: 252.0pt x 150.14148pt.
+[14 <./res/ss_web_history.png> <./res/ss_odoo_reservation_list.png> <./res/ss_odoo_reservation_form.png> <./res/ss_odoo_tenant.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 686--688
+\OT1/ptm/m/n/10 metode \OT1/pcr/m/n/10 _check_table_availability() \OT1/ptm/m/n/10 berhasil
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 686--688
+\OT1/ptm/m/n/10 meno-lak selu-ruh per-cobaan pem-bu-atan reser-vasi yang
+ []
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 686--688
+\OT1/ptm/m/n/10 bertumpang-tindih. Pe-san galat yang dikem-ba-likan oleh
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 686--688
+\OT1/ptm/m/n/10 Odoo berhasil diteruskan dan di-ta-mpilkan di an-tar-muka
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--691
+[]\OT1/ptm/b/n/10 Integrasi Pi-hak Ketiga dan Proses Otoma-tis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--691
+\OT1/ptm/b/n/10 (TC09{TC10). \OT1/ptm/m/n/10 Alur pem-ba-yaran \OT1/ptm/m/it/10 end-to-end \OT1/ptm/m/n/10 melalui
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 689--691
+\OT1/ptm/m/it/10 web-hook \OT1/ptm/m/n/10 dari Mid-trans berhasil di-ter-ima oleh \OT1/ptm/m/it/10 end-point
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 689--691
+\OT1/pcr/m/n/10 /api/webhooks \OT1/ptm/m/n/10 dan mem-per-barui sta-tus reser-vasi di
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 689--691
+\OT1/ptm/m/n/10 Odoo tanpa memer-lukan tin-dakan man-ual dari ad-min,
+ []
+
+
+Underfull \vbox (badness 2142) has occurred while \output is active []
+
+ [15]
+Underfull \hbox (badness 1442) in paragraph at lines 698--699
+[]\OT1/ptm/m/n/10 Sistem reser-vasi ter-pusat berhasil diban-gun den-gan
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 715--716
+[]\OT1/ptm/b/n/10 Aplikasi Mo-bile. \OT1/ptm/m/n/10 Mengem-bangkan ap-likasi \OT1/ptm/m/it/10 mo-bile
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 717--718
+[]\OT1/ptm/b/n/10 Dukungan Multi-Outlet. \OT1/ptm/m/n/10 Mem-per-luas sis-tem agar
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 719--720
+\OT1/ptm/m/it/10 board \OT1/ptm/m/n/10 anal-i-tik khusus di sisi \OT1/ptm/m/it/10 Web Fron-tend \OT1/ptm/m/n/10 yang
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 723--724
+\OT1/ptm/m/n/10 pada sisi API (mis-al-nya Re-dis) un-tuk men-gu-rangi
+ []
+
+[16]
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[17
+
+] (main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: B0D02847ED3EBFFE162B6503E2ACC033;12151.
+ ) 
+Here is how much of TeX's memory you used:
+ 11889 strings out of 467871
+ 189346 string characters out of 5418377
+ 619374 words of memory out of 5000000
+ 40479 multiletter control sequences out of 15000+600000
+ 670734 words of font info for 124 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,11n,79p,1565b,595s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb><C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/luffy/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (17 pages, 7737174 bytes).
+PDF statistics:
+ 520 PDF objects out of 1000 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
+ 637 words of extra memory for PDF output out of 10000 (max. 10000000)
+
