@@ -627,6 +627,42 @@ Admin dapat mengelola data seluruh tenant yang aktif beroperasi di \textit{food 
     \label{fig:ss_odoo_tenant}
 \end{figure}
 
+\textbf{Analitik Okupansi Meja:}
+Admin dapat memantau tingkat kepadatan atau okupansi meja berdasarkan jam dan hari dalam seminggu melalui grafik batang bertumpuk (\textit{stacked bar chart}). Hal ini membantu manajemen dalam menganalisis waktu sibuk (\textit{peak hours}) di \textit{food court}.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.0\linewidth]{res/analytics_table occupancy.png}
+\caption{Tampilan Analitik Okupansi Meja di Backend Odoo}
+\label{fig:analytics_occupancy}
+\end{figure}
+
+\textbf{Analitik Pendapatan Tenant:}
+Tampilan ini menyajikan grafik batang yang membandingkan total pendapatan (termasuk pajak) dari masing-masing tenant yang beroperasi. Data ini memudahkan admin untuk mengevaluasi tenant dengan performa penjualan tertinggi.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.0\linewidth]{res/analytics_tenant revenue.png}
+\caption{Tampilan Analitik Pendapatan Tenant di Backend Odoo}
+\label{fig:analytics_revenue}
+\end{figure}
+
+\textbf{Kontribusi Penjualan Tenant:}
+Grafik ini menunjukkan seberapa besar kontribusi jumlah pesanan (\textit{paid/done orders}) dari setiap tenant terhadap total keseluruhan transaksi di \textit{food court}. Admin dapat menggunakan laporan ini sebagai landasan untuk perhitungan bagi hasil atau evaluasi kontrak.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.0\linewidth]{res/analytics_tenant sales contribution.png}
+\caption{Tampilan Kontribusi Penjualan Tenant di Backend Odoo}
+\label{fig:analytics_contribution}
+\end{figure}
+
+\textbf{Tren Reservasi:}
+Admin dapat memantau tren jumlah reservasi aktif dari hari ke hari melalui grafik area (\textit{area chart}). Tampilan ini sangat berguna untuk melihat pola dan fluktuasi minat pengunjung \textit{food court} selama periode waktu tertentu.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.0\linewidth]{res/analytics_reservation trends.png}
+\caption{Tampilan Tren Reservasi Harian di Backend Odoo}
+\label{fig:analytics_trends}
+\end{figure}
+
 \section{PENGUJIAN SISTEM}
 
 Pengujian sistem dilakukan menggunakan metode \textit{Black-Box Testing}, yaitu pengujian yang berfokus pada fungsionalitas sistem dari sudut pandang pengguna tanpa memperhatikan struktur kode internal. Pendekatan ini dipilih karena sesuai dengan tujuan verifikasi, yakni memastikan bahwa keluaran sistem sesuai dengan kebutuhan fungsional yang telah didefinisikan pada tahap analisis, terlepas dari bagaimana implementasi kode di dalamnya dilakukan.
